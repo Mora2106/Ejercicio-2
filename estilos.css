@@ -1,0 +1,125 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+header{
+    background-color: #80DEEA;
+    padding: 1%;
+    margin-left: 20px;
+    margin-right: 25px;
+}
+#barra{
+    text-align: right;
+    margin-right: 20px;
+}
+#nav{
+    display: inline-block;
+    margin-right: 5px;
+}
+#nav1{
+    display: inline-block;
+    margin-right: 5px;
+}
+#nav2{
+    display: inline-block;
+    margin-right: 5px;
+}
+#nav3{
+    display: inline-block;
+    margin-right: 5px;
+}
+#nav4{
+    display: inline-block;
+    margin-right: 5px;
+}
+.contenedor1{
+    margin-left: 4%;
+    display: inline-block;
+    vertical-align: top;
+}
+.contenedor{
+    vertical-align: auto;
+    margin-left: 20px;
+    margin-right: auto;
+    background-color: #B2EBF2;
+    padding: 1%;
+    padding-left: 1%;
+    padding-right: 24%;
+    display: inline-block;
+}
+.nombreyapellido{
+    text-align: center;
+    margin-left: 150px;
+    font-size:xx-large;
+}
+.Habilidades{
+    display: block;
+}
+.ExperienciaLaboral{
+    display: block;
+}
+#texto{
+    display: inline-block;
+}
+#texto1{
+    font-size: small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Educacion{
+    display: block;
+}
+.perfil{
+    display: block;
+    padding: 1%;
+}
+.Contacto{
+    display: block;
+}
+.copyright{
+    background-color: #80DEEA;
+    padding: 1%;
+    margin-right: 24px;
+    margin-left: 20px;
+}
+#copia{
+    text-align: left;
+    color: black;
+    font-size: small;
+}
+#img{
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+#img2{
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+#img3{
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+#img4{
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+#perfil{
+    color: #0097A7;
+}
+#contacto{
+    color: #0097A7;
+}
+#habilidades{
+    color: #0097A7;
+}
+#experiencialaboral{
+    color: #0097A7;
+}
+#educacion{
+    color: #0097A7;
+}
